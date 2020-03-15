@@ -1,0 +1,2 @@
+vn30 = ['BID', 'BVH', 'CTD', 'CTG', 'EIB', 'FPT', 'GAS', 'HDB', 'HPG', 'MBB', 'MSN' , 'MWG', 'NVL', 'PLX', 'PNJ',
+        'POW', 'REE', 'ROS', 'SAB', 'SBT', 'SSI', 'STB', 'TCB', 'VCB', 'VHM', 'VIC', 'VJC', 'VNM', 'VPB', 'VRE']
